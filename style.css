@@ -1,0 +1,87 @@
+h1
+{
+	font-family: Ubuntu;
+	text-align: center;
+	background: black;
+	color: white;
+}
+h3
+{
+	font-family: Ubuntu;
+	color: black;
+	text-decoration: underline;
+}
+
+h4
+{
+	font-family: Ubuntu;
+	color: black;
+}
+
+.link { color: #0000FF; }
+.link:hover { color: #FFD700; }
+
+#para_1
+{
+	text-indent: 15px;
+	font-family: Comic sans ms;
+	Color: black;
+}
+
+#para_2
+{
+	font-family: Comic sans ms;
+	Color: black;
+}
+
+#img1 {	position:absolute; 
+	top: 230px;
+	left: 80.5555555%;
+	width: 250px;
+	height: 250px;
+}
+
+#img2 {	position:absolute; 
+	top: 570px;
+	left: 61%;
+	width: 500px;
+	height: 346.222222222222222222222222222222222222222222222222222222222222222222222222222222px; 
+}
+
+#img3 {	 display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 665.55px;
+	height: 159.5px;
+}
+
+#img4 {	position: absolute; 	
+	top: 3138px;
+	left: 50%;
+	width: 315px;
+	height: 315px;
+}	
+	
+#img6 {	position:absolute; 	
+	top: 2701px;
+	left: 50%;
+	width: 315px;
+	height: 315px;
+}
+
+#img5 {	position:absolute; 	
+	top: 2263.5px;
+	left: 50%;
+	width: 315px;
+	height: 315px;
+}
+	
+#img7 {	position:absolute; 	
+	top:1803px;
+	left: 50%;
+	width: 315px;
+	height: 315px;
+}
+	
+	
+	
